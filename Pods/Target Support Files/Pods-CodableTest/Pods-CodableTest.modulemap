@@ -1,0 +1,6 @@
+framework module Pods_CodableTest {
+  umbrella header "Pods-CodableTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
